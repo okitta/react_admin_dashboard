@@ -1,6 +1,9 @@
-# react_admin_dashboard
-#react_tutorial_follow_up
+# Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
+![Shoppy](https://i.ibb.co/W6g39w3/image.png)
 
-This is a react application that helps me or other to use different components of react like calendar, charts, and more and more easly. I have studied the tutorial well and I am quite soure that I will apply this knowledge and code in most of my current projects and future ones.
+## Introduction
+This is a code repository for the corresponding video tutorial.
 
-#Happy Coding
+If you want to get a finished, highly customizable Material UI version of a similar dashboard, check out [Flexy React Material Dashboard](https://www.wrappixel.com/templates/flexy-react-material-dashboard-admin/?ref=257&campaign=Flexy).
+
+## Launch your development career with project-based coaching - https://www.jsmastery.pro
